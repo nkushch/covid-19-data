@@ -69,8 +69,6 @@ valueBox(n_deaths_US, icon = "fas fa-skull-crossbones", color = "#fa3408")
 
 ```
 
-
-
 Row {data-width=650}
 -----------------------------------------------------------------------
 ### Number of Cases since March 1st (Florida)
@@ -131,9 +129,9 @@ Row {data-width=650}
 
 ![](symptoms.jpg)
 
-### Age distribution of cases (from Florida Department of Health, Division of Disease Control and Health Protection)
+### Unemployment spiked (tradingeconomics.com)
 
-![](age_distribution.png)
+![](unemployment.png)
 
 
 Raw Data
